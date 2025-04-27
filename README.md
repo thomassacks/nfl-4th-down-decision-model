@@ -46,10 +46,10 @@ This project models the probability that a team chooses to **go for it** on 4th 
 - Probability of going for it **increased sharply** as yards to go decreased.
 - Field position and score differential also played major roles:
   - Teams trailing in score or deep in opponent territory were more aggressive.
-- **Visual Output:**
+- **Visual Output :** 
   - Smooth probability curve showing likelihood of going for it vs. yards to go.
   - Real-world outliers (e.g., desperate 4th and 20 attempts) matched situational expectations.
-  - *(See plot linked to this post)*
+  - (https://github.com/thomassacks/nfl-4th-down-decision-model/blob/main/4th_down_probability_plot.png)
 
 ---
 
