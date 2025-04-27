@@ -15,6 +15,9 @@ Season: 2024
 
 Sample Size: Approximately 4000 4th down plays filtered to real football actions (run, pass, punt, field goal).
 
+
+
+
 Methodology:
 
 Pulled full NFL 2023 play-by-play data using nflfastR in RStudio.
@@ -40,6 +43,8 @@ score_differential (offensive team lead or deficit)
 Predicted the probability of going for it for each 4th down situation.
 
 
+
+
 Results:
 
 As expected, the probability of going for it increased sharply as yards to go decreased.
@@ -57,6 +62,8 @@ Real-world outliers (e.g., desperate 4th and 20 attempts) matched situational ex
 (See plot linked to this post)
 
 
+
+
 Next Steps:
 
 Incorporate Expected Points Added (EPA) thresholds to refine decision quality, not just decision occurrence.
@@ -66,8 +73,9 @@ Build a time-dependent model (e.g., "Should you go for it if only 2 minutes left
 Expand model across multiple seasons to identify coaching trends.
 
 
-Contact:
 
+
+Contact:
 
 Feel free to reach out to connect or collaborate:
 Email | thomasbsacks@gmail.com
