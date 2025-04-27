@@ -49,7 +49,7 @@ This project models the probability that a team chooses to **go for it** on 4th 
 - **Visual Output :** 
   - Smooth probability curve showing likelihood of going for it vs. yards to go.
   - Real-world outliers (e.g., desperate 4th and 20 attempts) matched situational expectations.
-  - (https://github.com/thomassacks/nfl-4th-down-decision-model/blob/main/4th_down_probability_plot.png)
+  - [4th Down Probability Graph](https://github.com/thomassacks/nfl-4th-down-decision-model/blob/main/4th_down_probability_plot.png)
 
 ---
 
